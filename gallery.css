@@ -205,7 +205,7 @@ body{
 .window img{
     width: 50%;
 }
-@media(max-width: 1200px){
+@media(max-width: 700px){
     .window .full-img{
         width: 80%;
     }
